@@ -32,6 +32,7 @@ export function Makeyour(){
                 <div className='row '>
             <button className='text-dark lastbut mb-4 ml-4 '>Personal</button>
             <h6 className='text-light ml-3 '>Business</h6>
+            
         </div></div>
         
         
